@@ -19,7 +19,8 @@ CREATE TABLE sepakbola (
 	id_pemain INT NOT NULL PRIMARY KEY AUTO_INCREMENT, 
 	nama_pemain VARCHAR(100),
 	usia_pemain INT(2),
-	posisi_pemain VARCHAR(50));
+	posisi_pemain VARCHAR(50)
+);
 ```
 
 ### 4. Ubah nama tabel menjadi sepakbola_indonesia
